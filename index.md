@@ -12,14 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Kavya Ramchander's First CS193 Homework
-## Header 2
-### Header 3
+
+
 
 - CS 193 is an excellent class for non-programmers to get acquainted with basic programming skills in a non-intimidating way.
 - The class is enjoyable and not very stressful.
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
